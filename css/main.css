@@ -1,0 +1,135 @@
+@import "/css/emacs.css";
+
+body {
+    font-family: Times, Serif;
+    font-size: 14pt;
+    margin: 1em auto;
+    width: 70%;
+}
+
+header {
+    border-bottom: 1px solid #d5d5d5;
+    padding-bottom: 1em;
+}
+
+article img {
+    max-width: 100%;
+}
+
+.site-title {
+    font-size: 1.8em;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+.site-title img {
+    border-radius: 0.3em;
+    vertical-align: middle;
+}
+
+.current-part {
+    background-color: #555;
+    border-radius: 0.3em;
+    color: white;
+    padding: 0.5em;
+}
+
+nav ul, footer ul {
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 1em;
+}
+
+nav a {
+    color: #555;
+}
+
+nav a:hover {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 1.6em;
+    font-variant: small-caps;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+p {
+    text-align: justify;
+}
+
+p a {
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
+
+ul a {
+    text-decoration: none;
+}
+
+ul.posts, ul.categories, ul.tags {
+    padding: 0;
+}
+
+ul.posts > li, ul.categories > li, ul.tags > li {
+    list-style: none;
+}
+
+.counter {
+    color: gray;
+}
+
+ul.categories > li, ul.tags > li {
+    display: inline;
+}
+
+.post-meta {
+    color: gray;
+    font-size: 0.95em;
+}
+
+.post-meta a {
+    color: gray;
+    text-decoration: none;
+}
+
+.post-meta a:hover {
+    text-decoration: underline;
+}
+
+.personal-photo {
+    border-radius: 0.3em;
+    float: left;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    width: 320px;
+}
+
+code {
+    font-size: 12pt;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+table th, td {
+    border: 1px solid gray;
+    padding: 0.2em;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+}

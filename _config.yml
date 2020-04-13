@@ -1,0 +1,15 @@
+name: Evgeny Simonenko
+title: Evgeny Simonenko
+author: Evgeny Simonenko
+description: Evgeny Simonenko personal web site.
+url: https://easimonenko.github.io
+timezone: Europe/Moscow
+permalink: /blog/:year/:month/:day/:title:output_ext
+highlighter: rouge
+email: easimonenko@gmail.com
+github: easimonenko
+markdown: kramdown
+plugins:
+- jekyll-avatar
+- jekyll-feed
+- jekyll-seo-tag

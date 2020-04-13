@@ -1,0 +1,21 @@
+---
+layout: default
+title: Home
+---
+<h1>Posts</h1>
+
+<ul class="posts">
+    {% for post in site.posts limit:7 %}
+    {% include post-list-item.html %}
+    {% endfor %}
+</ul>
+
+<p><strong><a href="/blog">All {{site.posts | size}} posts &#9658;</a></strong></p>
+
+<h1>Categories</h1>
+
+{% include categories-list.html %}
+
+<h1>Tags</h1>
+
+{% include tags-list.html %}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charset="utf-8"/>
+	<title>{{page.title}} | {{site.name}}</title>
+	<link rel="stylesheet" type="text/css" href="/css/main.css"/>
+	<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico"/>
+	{% seo %}
+	{% feed_meta %}
+    </head>
+    <body>
+	<header>
+	    <span class="site-title">
+		{% avatar easimonenko %}&nbsp;{{site.name}}
+	    </span>
+	    <nav style="display: inline;">
+		<ul style="display: inline;">
+		    <li>
+			<a href="/" {% if page.url == "/" %}
+			   class="current-part"
+			   {%- endif -%}>Home
+			</a>
+		    </li>
+		    <li>
+			<a href="/blog"
+			   {% if page.url contains "/blog"
+			   or page.url contains "/tags"
+			   or page.url contains "/categories" %}
+			   class="current-part"
+			   {% endif %}>Blog
+			</a>
+		    </li>
+		    <li>
+			<a href="/about"
+			   {% if page.url contains "/about" %}
+			   class="current-part"
+			   {% endif %}>About
+			</a>
+		    </li>
+		</ul>
+	    </nav>
+	</header>
+	<div class="container">
+	    {{content}}
+	</div>
+	<footer>
+	    <ul>
+		<li>Email:
+		    <a href="mailto:{{site.email}}">{{site.email}}</a>
+		</li>
+		<li>GitHub:
+		    <a href="https://github.com/{{site.github}}">
+			{{site.github}}
+		    </a>
+		</li>
+		<li><a href="/feed.xml">Atom</a></li>
+	    </ul>
+	</footer>
+</html>

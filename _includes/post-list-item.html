@@ -1,0 +1,17 @@
+<li>
+    <h2>
+	<a href="{{post.url}}" title="{{post.title}}">{{post.title}}</a>
+    </h2>
+    <p class="post-meta">
+	{{post.date | date_to_string}}&nbsp;|&nbsp;
+	<a href="/categories/{{post.category | slugify}}">
+	    {{post.category}}
+	</a>&nbsp;|&nbsp;
+	{% for tag in post.tags %}
+	<a href="/tags/{{tag | slugify}}">
+	    {{tag}}
+	</a>&nbsp;
+	{% endfor %}
+    </p>
+    <div>{{post.excerpt}}</div>
+</li>

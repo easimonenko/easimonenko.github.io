@@ -1,0 +1,11 @@
+<ul class="categories">
+    {% for category in site.categories %}
+    <li>
+	<a href="/categories/{{category | first | slugify}}"
+	 style="font-size: {{category | last | size | times: 5 | plus: 100}}%;">
+	    {{category | first}}
+	</a>
+	<sup class="counter">{{category[1] | size}}</sup>
+    </li>
+    {% endfor %}
+</ul>
