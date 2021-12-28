@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Установка и запуск Neo4j
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2018-01-20 01:16 GTM+3
 category: Tutorial
 tags: [Neo4j, Graph Databases, Databases]
@@ -8,6 +10,8 @@ tags: [Neo4j, Graph Databases, Databases]
 
 В статье рассматривается как установить, настроить и запустить графовую СУБД
 Neo4j в среде Linux.
+
+<!-- end-of-lead -->
 
 ## Установка
 

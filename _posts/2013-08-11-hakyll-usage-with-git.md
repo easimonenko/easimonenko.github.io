@@ -1,6 +1,7 @@
 ---
 title: Hakyll. Использование с Git
 author: Симоненко Евгений А.
+email: easimonenko@gmail.com
 date: 2013-08-11
 updating_date: 2013-08-31
 category: Tutorial
@@ -10,6 +11,8 @@ tags: [Hakyll, Git, Static Site Generator, Web Development]
 Эта заметка дополняет [предыдущую]({% post_url 2013-08-10-static-sites-and-git %}), в
 которой я описываю работу с сервисами _Git_ в качестве хостингов для
 статических сайтов, и содержит два замечания для тех, кто использует [Hakyll][].
+
+<!-- end-of-lead -->
 
 ## Замечание первое
 

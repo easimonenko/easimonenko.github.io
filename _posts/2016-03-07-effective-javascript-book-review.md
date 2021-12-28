@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Отзыв о книге "Сила JavaScript. 68 способов эффективного использования JS" (Дэвид Херман)
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
+date: 2016-03-07
 category: Bibliotheca
 tags: JavaScript
 ---
-
-Закончил чтение замечательной книги по JavaScript
-[Сила JavaScript. 68 способов эффективного использования JS (Дэвид Херман)](https://www.ozon.ru/context/detail/id/20413530/) и предлагаю вашему вниманию отзыв.
 
 <style>
 img.book-cover {
@@ -19,6 +19,10 @@ img.book-cover {
 
 [<img src="/images/effective-javascript-cover.jpg" alt="Сила JavaScript. 68 способов эффективного использования JS (Дэвид Херман)" class="book-cover"/>](/images/effective-javascript-cover.jpg)
 
+Закончил чтение замечательной книги по JavaScript
+[Сила JavaScript. 68 способов эффективного использования JS (Дэвид Херман)](https://www.ozon.ru/context/detail/id/20413530/)
+и предлагаю вашему вниманию отзыв.
+
 Книга будет полезна как начинающим, там и опытным программистам на JavaScript.
 Под начинающими программистами я понимаю здесь тех, кто уже познакомился с
 синтаксисом JavaScript и попробовал написать что-то более-менее сложное.
@@ -27,6 +31,8 @@ img.book-cover {
 без знания которых дальнейшая разработка на этом языке затруднительна и
 полна проблем. Объём книги невелик, всего около 300 страниц, но материал
 разнообразен, интересен и полезен.
+
+<!-- end-of-lead -->
 
 В книге семь глав:
 

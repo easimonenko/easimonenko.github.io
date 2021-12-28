@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Руководство по утилите командной строки oai-pmh
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2017-11-18 22:52
 category: Tutorial
 tags: [OAI-PMH, Open Access, Open Science]
@@ -13,6 +15,8 @@ tags: [OAI-PMH, Open Access, Open Science]
 при использовании с языком JavaScript. Для примеров используется
 [arXiv.org](https://arxiv.org/help/oa/index). Результаты выполнения команд
 приводятся на момент написания этой статьи.
+
+<!-- end-of-lead -->
 
 ## Установка
 

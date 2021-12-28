@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Отзыв о курсе Learing How to Learn на Coursera.org
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2016-02-29 12:14
 updating_date: 2017-06-01 21:13
 category: Review
@@ -14,6 +16,8 @@ tags: [Online Course, Coursera]
 курса [Думай как математик. Как решать любые задачи быстрее и эффективнее --
 Барбара Оакли](https://www.ozon.ru/context/detail/id/33253422/). Книгу
 прочитал: в целом она идентична по содержанию этому курсу.
+
+<!-- end-of-lead -->
 
 Курс длится четыре недели. Весь материал в форме видео. Есть дополнительные
 интервью -- одна из самых интересных частей курса. После каждого видео

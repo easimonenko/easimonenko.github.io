@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Функциональное программирование. Что почитать?
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2013-08-30
 updating_date: 2016-06-07
 category: Bibliotheca
@@ -13,6 +15,8 @@ tags: [Haskell, Scala, Elm, Functional Programming, Computer Science]
 на русском языке как о функциональном программировании вообще, так и об
 отдельных языках функционального программирования в частности, таких как
 Haskell, Scala, Elm.
+
+<!-- end-of-lead -->
 
 Для изучающих или ещё только собирающихся изучать _Haskell_ рекомендую в первую
 очередь обратиться с книге [Липовача] или пройти отличный курс

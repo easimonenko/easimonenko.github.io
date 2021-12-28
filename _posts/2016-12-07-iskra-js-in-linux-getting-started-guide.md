@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Начало работы с Iskra JS в Linux
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2016-12-07
 category: Tutorial
 tags: [Iskra JS, Espruino, Linux, Amperka, JavaScript, Arduino]
@@ -9,6 +11,8 @@ tags: [Iskra JS, Espruino, Linux, Amperka, JavaScript, Arduino]
 В статье рассматривается как начать работать с [Iskra JS][] в среде
 Linux, как настроить доступ к плате по USB, как установить и использовать
 среду Espruino IDE.
+
+<!-- end-of-lead -->
 
 ## Предварительная подготовка
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Генераторы статических сайтов
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2013-08-05
 category: Tutorial
 tags: [Static Site Generator, Web Development]
@@ -20,6 +22,8 @@ tags: [Static Site Generator, Web Development]
 - [Hakyll][]
 
 Несколько слов о каждой.
+
+<!-- end-of-lead -->
 
 ## Jekyll
 

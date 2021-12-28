@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Введение в язык запросов Cypher
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2020-05-29 23:24
 category: Tutorial
 tags: [Cypher, Neo4j, Query Language, Graph Databases, Databases]
@@ -19,6 +21,8 @@ tags: [Cypher, Neo4j, Query Language, Graph Databases, Databases]
 из классического учебника по Прологу за авторством И. Братко. На этом примере
 будет показано как добавлять узлы и связи в граф, как им назначать метки и
 атрибуты и как задавать вопросы.
+
+<!-- end-of-lead -->
 
 ![Генеалогическое дерево в Neo4j, отредактированный вид](/images/neo4j_family_tree_edited_view.png)
 

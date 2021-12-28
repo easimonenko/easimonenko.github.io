@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Маленький пример различия результатов одного и того же кода на JavaScript и TypeScript
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2016-02-11
 category: Tutorial
 tags: [JavaScript, TypeScript]
@@ -30,5 +32,7 @@ TypeScript даже не компилируется (и это хорошо!):
 ```
 sample.ts(5,3): error TS2322: Type 'string' is not assignable to type 'number'.
 ```
+
+<!-- end-of-lead -->
 
 (c) Симоненко Евгений, 2016

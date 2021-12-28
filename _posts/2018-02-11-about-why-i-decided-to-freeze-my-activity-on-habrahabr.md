@@ -1,6 +1,8 @@
 ---
 layout: post
 title: О том, почему я решил заморозить свою активность на Habrahabr
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2018-02-11 19:26
 category: Opinions
 tags: [Habrahabr]
@@ -17,6 +19,8 @@ tags: [Habrahabr]
 ["Основы разработки на языке Elm (руководство по инструментарию для начинающих)"](https://habrahabr.ru/post/302154/)
 послужила толчком к формированию
 [русскоязычного сообщества языка Elm](https://vk.com/elm_lang_ru).
+
+<!-- end-of-lead -->
 
 Сначала поясню, что означает заморозка моей активности на Habrahabr:
 

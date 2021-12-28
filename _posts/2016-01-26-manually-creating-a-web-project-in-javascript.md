@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Ручное создание веб-проекта на JavaScript
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2016-01-26
 updating_date: 2016-02-15
 category: Tutorial
@@ -9,6 +11,8 @@ tags: [JavaScript, TypeScript, Node.js, Bower, NPM, Web Development]
 
 Шпаргалка по ручному созданию проекта JavaScript или TypeScript
 с использованием Visual Studio Code.
+
+<!-- end-of-lead -->
 
 ## Проект на GitHub
 

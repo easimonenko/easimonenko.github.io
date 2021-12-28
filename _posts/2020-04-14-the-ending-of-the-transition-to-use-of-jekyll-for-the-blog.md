@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Завершение перехода к использованию для блога Jekyll
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2020-04-14
 category: Site News
 tags: [Jekyll, Static Site Generator, GitHub Pages]
@@ -12,7 +14,9 @@ tags: [Jekyll, Static Site Generator, GitHub Pages]
 [предыдущем посте]({% post_url 2020-03-26-the-beginning-of-the-transition-to-use-of-jekyll-for-the-blog %}),
 а сейчас расскажу, почему же так долго продолжался этот переход.
 
-Очевидный и единственно правильный ответ: автор давно не юноша. Рассказ окончен.
+Очевидный и единственно правильный ответ: автор давно не юноша. Рассказ окончен, шутка...
+
+<!-- end-of-lead -->
 
 На что было потрачено это время:
 

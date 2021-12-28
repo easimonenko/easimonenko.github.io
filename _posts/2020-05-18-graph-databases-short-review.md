@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Краткий обзор свободно-распространяемых графовых СУБД
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2020-05-18 22:36
 category: Research Work
 tags: [Graph Databases, Databases]
@@ -11,6 +13,8 @@ tags: [Graph Databases, Databases]
 не ограничиваются одной только графовой моделью. Давайте пройдёмся по наиболее
 популярным и известным, свободно-распространяемым из них. Сначала мы рассмотрим
 полноценные СУБД, а затем -- встраиваемые.
+
+<!-- end-of-lead -->
 
 _Сначала полноценные СУБД в порядке числа звёзд на GitHub._
 

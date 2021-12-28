@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Статические сайты и Git
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2013-08-10
 updating_date: 2013-08-22
 category: Tutorial
@@ -20,6 +22,8 @@ tags: [Web Development, Git]
 Отдельное преимущество _Git_-сервисов заключается также в том, что Ваш сайт
 обновляется автоматически с обновлением соответствующего хранилища файлов сайта
 (репозитория).
+
+<!-- end-of-lead -->
 
 В этой заметке под _Git_-сервисами я буду подразумевать следующие два:
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Логическое программирование. Что почитать?
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2013-08-30
 updating_date: 2017-06-10
 category: Bibliotheca
@@ -20,6 +22,8 @@ tags: [Prolog, Logic Programming, Computer Science]
 
 Знакомство с Prolog можно начать с любой из основных книг, только нужно
 учитывать различия между диалектами.
+
+<!-- end-of-lead -->
 
 ## Книги
 

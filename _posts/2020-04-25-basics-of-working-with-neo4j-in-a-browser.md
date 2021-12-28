@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Основы работы с Neo4j в браузере
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2020-04-25 22:56
 category: Tutorial
 tags: [Neo4j, Graph Databases, Databases]
@@ -15,6 +17,8 @@ tags: [Neo4j, Graph Databases, Databases]
 кто уже знаком с этой СУБД, могут смело её пропустить.
 
 ![Neo4j Browser: home screen](/images/neo4j-browser-home.png)
+
+<!-- end-of-lead -->
 
 *Примечание*. В статье не рассматривается как установить и настроить Neo4j. Если
 Вы хотите узнать, как это сделать, прочитайте пост

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Начало работы с PlatformIO в Atom и Linux
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2016-06-12
 updating_date: 2016-06-14
 category: Tutorial
@@ -9,6 +11,8 @@ tags: [PlatformIO, Arduino, Atom, Linux]
 
 В этой статье рассматривается как начать использовать [PlatformIO][] с [Atom][]
 для разработки скетчей для [Arduino][] в среде Linux.
+
+<!-- end-of-lead -->
 
 ## Предварительная подготовка
 

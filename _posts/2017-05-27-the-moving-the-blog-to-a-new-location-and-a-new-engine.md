@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Переезд блога на новое место и на новый движок
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2017-05-27 18:48
 category: Site News
 tags: [Bloggero, GitHub Pages]
@@ -15,5 +17,7 @@ tags: [Bloggero, GitHub Pages]
 [GitHub](https://github.com/easimonenko/easimonenko.github.io). Попутно были
 выявлены и исправлены недоработки текущей версии, которые войдут в следующий
 выпуск движка.
+
+<!-- end-of-lead -->
 
 (c) Симоненко Евгений, 2017

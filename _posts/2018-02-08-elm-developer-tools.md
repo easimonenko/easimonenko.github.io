@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Инструменты разработчика на языке Elm
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2018-02-08
 updating_date: 2018-05-15
 category: Tutorial
@@ -18,6 +20,8 @@ tags: [Elm, Brunch, Atom, Functional Programming, Frontend, Web Development]
 пройдёмся по этому набору на простом примере.
 
 [![Инструменты разработчика на языке Elm: обложка](/images/elm-tools-cover.png)](/images/elm-tools-cover.png)
+
+<!-- end-of-lead -->
 
 ## Базовые средства Elm
 

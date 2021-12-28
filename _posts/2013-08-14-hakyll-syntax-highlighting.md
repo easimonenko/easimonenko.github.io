@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hakyll. Синтаксическая подсветка
+author: Evgeny Simonenko
+email: easimonenko@gmail.com
 date: 2013-08-14
 category: Tutorial
 tags: [Hakyll, Static Site Generator, Web Development]
@@ -8,6 +10,8 @@ tags: [Hakyll, Static Site Generator, Web Development]
 
 В этой заметке рассказывается как добавить синтаксическую подсветку в _Hakyll_
 для файлов в формате _Markdown_ .
+
+<!-- end-of-lead -->
 
 ## Включение синтаксической подсветки
 
