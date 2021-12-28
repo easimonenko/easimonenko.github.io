@@ -86,6 +86,10 @@ ul.posts > li, ul.categories > li, ul.tags > li {
     list-style: none;
 }
 
+ul.posts > li > div > p img {
+    max-width: 100%;
+}
+
 .counter {
     color: gray;
 }
