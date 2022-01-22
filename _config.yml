@@ -14,3 +14,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 excerpt_separator: <!-- end-of-lead -->
+collections:
+  projects:
+    output: true
+    title: Projects

@@ -1,0 +1,12 @@
+<li>
+    <h2>
+	<a href="{{project.url}}" title="{{project.name}}">{{project.name}}</a>
+    </h2>
+    <p class="project-meta">
+	{{project.date | date_to_string}}&nbsp;|&nbsp;
+	<a href="{{project.link}}" class="project-url">
+	    {{project.link}}
+	</a>
+    </p>
+    <div>{{project.short}}</div>
+</li>

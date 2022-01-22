@@ -78,11 +78,11 @@ ul a {
     text-decoration: none;
 }
 
-ul.posts, ul.categories, ul.tags {
+ul.posts, ul.categories, ul.tags, ul.projects {
     padding: 0;
 }
 
-ul.posts > li, ul.categories > li, ul.tags > li {
+ul.posts > li, ul.categories > li, ul.tags > li, ul.projects > li {
     list-style: none;
 }
 
@@ -103,12 +103,15 @@ ul.categories > li, ul.tags > li {
     font-size: 0.95em;
 }
 
-.post-meta a {
-    color: gray;
+.post-meta a, .project-meta a {
     text-decoration: none;
 }
 
-.post-meta a:hover {
+.post-meta a {
+    color: gray;
+}
+
+.post-meta a:hover, .project-meta a:hover {
     text-decoration: underline;
 }
 

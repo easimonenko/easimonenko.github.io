@@ -2,6 +2,16 @@
 layout: default
 title: Home
 ---
+<h1>Projects</h1>
+
+<ul class="projects">
+    {% for project in site.projects limit:3 %}
+    {% include project-list-item.html %}
+    {% endfor %}
+</ul>
+
+<p><strong><a href="/projects">All {{site.projects | size}} projects &#9658;</a></strong></p>
+
 <h1>Posts</h1>
 
 <ul class="posts">

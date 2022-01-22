@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article>
+    <h1>{{page.name}}</h1>
+    <p class="project-meta">
+	{{page.date | date_to_string}}&nbsp;|&nbsp;
+	<a href="{{page.link}}">
+	    {{page.link}}
+	</a>
+    </p>
+    {{content}}
+</article>
