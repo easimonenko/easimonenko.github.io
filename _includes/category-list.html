@@ -2,10 +2,10 @@
     {% for category in site.categories %}
     <li>
 	<a href="/categories/{{category | first | slugify}}"
-	 style="font-size: {{category | last | size | times: 5 | plus: 100}}%;">
+	   style="font-size: {{category | last | size | times: 5 | plus: 100}}%;">
 	    {{category | first}}
 	</a>
-	<sup class="counter">{{category[1] | size}}</sup>
+	<sup class="counter">{{category | last | size}}</sup>
     </li>
     {% endfor %}
 </ul>
