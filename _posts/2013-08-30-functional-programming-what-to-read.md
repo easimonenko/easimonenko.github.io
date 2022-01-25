@@ -6,7 +6,7 @@ email: easimonenko@gmail.com
 date: 2013-08-30
 updating_date: 2016-06-07
 category: Bibliotheca
-tags: [Haskell, Scala, Elm, Functional Programming, Computer Science]
+tags: [Haskell, Scala, Elm, Functional Programming, Computer Science, Learning]
 ---
 
 Начиная или продолжая изучать что-либо, мы интересуемся тем, а что нам бы ещё

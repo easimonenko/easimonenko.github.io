@@ -6,7 +6,7 @@ email: easimonenko@gmail.com
 date: 2013-08-30
 updating_date: 2017-06-10
 category: Bibliotheca
-tags: [Prolog, Logic Programming, Computer Science]
+tags: [Prolog, Logic Programming, Computer Science, Learning]
 ---
 
 По _Prolog_ книжек достаточно много, есть онлайн-курсы. Автор впервые

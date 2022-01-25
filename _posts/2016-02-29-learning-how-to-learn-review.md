@@ -6,7 +6,7 @@ email: easimonenko@gmail.com
 date: 2016-02-29 12:14
 updating_date: 2017-06-01 21:13
 category: Review
-tags: [Online Course, Coursera]
+tags: [Online Course, Coursera, Learning]
 ---
 
 Успешно завершил курс
