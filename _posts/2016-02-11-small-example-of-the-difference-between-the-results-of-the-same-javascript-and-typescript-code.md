@@ -5,7 +5,7 @@ author: Evgeny Simonenko
 email: easimonenko@gmail.com
 date: 2016-02-11
 category: Tutorial
-tags: [JavaScript, TypeScript]
+tags: [JavaScript, TypeScript, Programming Languages]
 ---
 
 Без лишних слов маленький пример различия результов одного и того же кода
