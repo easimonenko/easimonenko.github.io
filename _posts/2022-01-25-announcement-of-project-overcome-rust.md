@@ -8,7 +8,7 @@ category: Projects
 tags: [Rust, Learning]
 ---
 
-3 января 2022 я запустил свой новый проект [“Превозмочь Rust”](/projects/overcome_rust/).
+3 января 2022 я запустил свой новый проект [“Превозмочь Rust”](/projects/overcome-rust/).
 Это [канал](https://t.me/overcome_rust) в Телеграме, где я рассказываю о том,
 как я постигаю язык программирования [Rust](https://www.rust-lang.org).
 Этот язык, как и Haskell, Agda, Idris и некоторые другие, известен высоким порогом входа,
