@@ -5,7 +5,7 @@ author: Evgeny Simonenko
 email: easimonenko@gmail.com
 date: 2013-08-05
 category: Tutorial
-tags: [Static Site Generator, Web Development]
+tags: [Static Site Generators, Web Development]
 ---
 
 В этой заметке даётся краткий обзор статических генераторов, с которыми автор

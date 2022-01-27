@@ -6,7 +6,7 @@ email: easimonenko@gmail.com
 date: 2013-08-08,
 updating_date: 2013-08-21
 category: Tutorial
-tags: [Hakyll, Haskell, Static Site Generator, Web Development]
+tags: [Hakyll, Haskell, Static Site Generators, Web Development]
 ---
 
 В заметке описывается процесс подготовки к использованию [Hakyll][] для

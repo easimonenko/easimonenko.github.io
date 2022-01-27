@@ -5,7 +5,7 @@ author: Evgeny Simonenko
 email: easimonenko@gmail.com
 date: 2020-12-06 21:42
 category: Opinions
-tags: [Education, University]
+tags: [Education, Universities]
 ---
 
 _Этот пост изначально должен был быть ответом на пост
