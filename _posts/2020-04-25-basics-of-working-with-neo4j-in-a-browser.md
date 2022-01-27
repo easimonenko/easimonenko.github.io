@@ -5,7 +5,7 @@ author: Evgeny Simonenko
 email: easimonenko@gmail.com
 date: 2020-04-25 22:56
 category: Tutorial
-tags: [Neo4j, Graph Databases, Databases]
+tags: [Neo4j, Graph Databases]
 ---
 
 В статье рассматривается как начать работать с графовой СУБД

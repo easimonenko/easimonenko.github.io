@@ -5,7 +5,7 @@ author: Evgeny Simonenko
 email: easimonenko@gmail.com
 date: 2016-12-07
 category: Tutorial
-tags: [Iskra JS, Espruino, Linux, Amperka, JavaScript, Arduino]
+tags: [Iskra JS, Espruino, Linux, Amperka]
 ---
 
 В статье рассматривается как начать работать с [Iskra JS][] в среде

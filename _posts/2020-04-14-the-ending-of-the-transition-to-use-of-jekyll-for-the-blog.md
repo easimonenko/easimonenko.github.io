@@ -5,7 +5,7 @@ author: Evgeny Simonenko
 email: easimonenko@gmail.com
 date: 2020-04-14
 category: Site News
-tags: [Jekyll, Static Site Generator, GitHub Pages]
+tags: [Jekyll, Static Site Generators, GitHub Pages]
 ---
 
 Итак, мною завершён перевод этого сайта-блога на использование [Jekyll][]. Ушло у

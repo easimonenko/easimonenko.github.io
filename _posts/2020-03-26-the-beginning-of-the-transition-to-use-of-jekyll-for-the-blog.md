@@ -5,7 +5,7 @@ author: Evgeny Simonenko
 email: easimonenko@gmail.com
 date: 2020-03-26
 category: Site News
-tags: [Jekyll, Static Site Generator, Bloggero, GitHub Pages]
+tags: [Jekyll, Static Site Generators, Bloggero, GitHub Pages]
 ---
 Вот, решил отказаться от использования самодельного инструмента
 [Bloggero][]. Главная причина: не нужно превращать сайт (блог) в веб-приложение, в

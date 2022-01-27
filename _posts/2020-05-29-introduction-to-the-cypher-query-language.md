@@ -5,7 +5,7 @@ author: Evgeny Simonenko
 email: easimonenko@gmail.com
 date: 2020-05-29 23:24
 category: Tutorial
-tags: [Cypher, Neo4j, Query Language, Graph Databases, Databases]
+tags: [Cypher, Neo4j, Query Languages, Graph Databases]
 ---
 
 Язык запросов _Cypher_ изначально разработан специально для графовой СУБД

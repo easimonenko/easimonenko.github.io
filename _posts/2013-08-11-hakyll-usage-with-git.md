@@ -5,7 +5,7 @@ email: easimonenko@gmail.com
 date: 2013-08-11
 updating_date: 2013-08-31
 category: Tutorial
-tags: [Hakyll, Git, Static Site Generator, Web Development]
+tags: [Hakyll, Git, Static Site Generators, Web Development]
 ---
 
 Эта заметка дополняет [предыдущую]({% post_url 2013-08-10-static-sites-and-git %}), в
