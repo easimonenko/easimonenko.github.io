@@ -19,3 +19,10 @@ collections:
     output: true
     title: Projects
     permalink: /:collection/:name/
+exclude:
+  - README.md
+  - docs
+  - Gemfile
+  - Gemfile.lock
+  - "*~"
+  - ".#*"
