@@ -7,7 +7,8 @@ post-list-limit: 7
 <h1>Projects</h1>
 
 <ul class="projects">
-    {% for project in site.projects limit:page.project-list-limit %}
+    {% assign projects = site.projects | sort: "date" | reverse %}
+    {% for project in projects limit: page.project-list-limit %}
     {% include project-list-item.html %}
     {% endfor %}
 </ul>
