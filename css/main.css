@@ -94,6 +94,11 @@ ul.posts > li > p img {
     max-width: 100%;
 }
 
+.read-more {
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
 .counter {
     color: gray;
 }
