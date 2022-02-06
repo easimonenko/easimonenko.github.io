@@ -1,7 +1,7 @@
 @import "/css/emacs.css";
 
 body {
-    font-family: Times, Serif;
+    font-family: Georgia, Times, Serif;
     font-size: 13pt;
     margin: 1em auto;
     width: 70%;
@@ -133,6 +133,7 @@ ul.categories > li, ul.tags > li {
 }
 
 code {
+    font-family: FreeMono, monospace;
     font-size: 12pt;
 }
 
