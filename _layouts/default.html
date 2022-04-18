@@ -7,6 +7,14 @@
 	<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico"/>
 	{% seo %}
 	{% feed_meta %}
+        {% for ext in page.exts %}
+        {% case ext %}
+        {% when "mathjax" %}
+        <script type="text/javascript" async
+                src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-AMS_SVG">
+        </script>
+        {% endcase %}
+        {% endfor %}
     </head>
     <body>
 	<header>

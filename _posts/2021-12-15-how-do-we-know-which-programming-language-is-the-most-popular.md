@@ -6,6 +6,7 @@ email: easimonenko@gmail.com
 date: 2021-12-15 13:03
 category: Explainer
 tags: [Programming Languages, Ratings]
+exts: [mathjax]
 ---
 
 _Выясним, как вычисляются рейтинги языков программирования, какие языки программирования наиболее популярны, и что нам с этой информацией делать._
