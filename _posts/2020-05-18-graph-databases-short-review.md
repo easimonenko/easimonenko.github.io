@@ -4,7 +4,7 @@ title: Краткий обзор свободно-распространяемы
 author: Evgeny Simonenko
 email: easimonenko@gmail.com
 date: 2020-05-18 22:36
-category: Research Work
+category: Review
 tags: [Graph Databases, Databases]
 ---
 
