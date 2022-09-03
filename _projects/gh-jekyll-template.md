@@ -6,6 +6,8 @@ link: https://github.com/easimonenko/gh-jekyll-template
 short: Шаблон Jekyll для сайтов, размещаемых на GitHub Pages.
 author: Evgeny Simonenko
 date: 2022-01-28 23:59
+status: active
+updating_date: 2022-09-03 18:09
 ---
 
 Шаблон [Jekyll](https://jekyllrb.com/) для сайтов,
