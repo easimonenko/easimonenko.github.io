@@ -8,6 +8,12 @@
 	<a href="{{project.link}}" class="project-url">
 	    {{project.link}}
 	</a>
+        {% if project.status %}
+        &nbsp;|&nbsp;<em>Status:</em> {{project.status | capitalize}}
+        {% endif %}
+        {% if project.updating_date %}
+        &nbsp;|&nbsp;<em>Updated:</em> {{project.updating_date | date_to_string}}
+        {% endif %}
     </p>
 
     <p>{{project.short}}</p>
