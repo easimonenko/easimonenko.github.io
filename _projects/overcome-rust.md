@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Превозмочь Rust (Overcome Rust)"
-name: "Превозмочь Rust (Overcome Rust)"
+name: overcome_rust
 short: "Это канал в Телеграме, где я рассказывают о том, как постигаю язык программирования Rust."
 link: https://t.me/overcome_rust
 author: Evgeny Simonenko

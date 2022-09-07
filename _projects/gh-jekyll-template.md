@@ -1,7 +1,7 @@
 ---
 layout: project
 title: GH Jekyll Template
-name: GH Jekyll Template
+name: gh-jekyll-template
 link: https://github.com/easimonenko/gh-jekyll-template
 short: Шаблон Jekyll для сайтов, размещаемых на GitHub Pages.
 author: Evgeny Simonenko
