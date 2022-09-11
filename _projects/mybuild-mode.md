@@ -7,13 +7,14 @@ short: Режим GNU Emancs для редактирования файлов My
 author: Evgeny Simonenko
 date: 2022-09-07 16:24
 status: active
+updating_date: 2022-09-11 13:15
 ---
 
 Проект по разработке режима _GNU Emacs_ для редактирования файлов _Mybuild_
 из операционный системы [Embox](https://embox.github.io/).
 
-Проект начат в августе 2022. На данный момент, 7 сентября, пакет для `mybuild-mode` проходит
-[проверку в MELPA](https://github.com/melpa/melpa/pull/8188).
+Проект начат в августе 2022. 11 сентября [пакет](https://melpa.org/#/mybuild-mode)
+для `mybuild-mode` был [принят в MELPA](https://github.com/melpa/melpa/pull/8188).
 
 Реализованы:
 - синтаксическая подсветка (полностью, используется `font-lock-mode`);
