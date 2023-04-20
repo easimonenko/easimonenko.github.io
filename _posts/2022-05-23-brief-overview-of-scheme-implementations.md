@@ -3,7 +3,7 @@ layout: post
 title: Краткий обзор реализаций Scheme
 author: Evgeny Simonenko
 date: 2022-05-23 21:48
-updating_date: 2022-11-19 18:27
+updating_date: 2022-11-23 19:29
 category: Review
 tags: [Scheme, Functional Programming]
 ---
@@ -62,9 +62,14 @@ tags: [Scheme, Functional Programming]
 |--------------------------------------------------|---------------------------------------------------------------------------------------------------|----------|-------------|---------------------------------------------------------------------------------------------|:---------------------:|:----------------:|:-------------------------:|--------------------------|
 | [SLIB](https://people.csail.mit.edu/jaffer/SLIB) | Библиотека                                                                                        |          | Scheme      |                                                                                             |                       | 3b6              | 3b6                       | slib                     |
 | [Nanopass Framework](https://nanopass.org/)      | DSL для создания компиляторов                                                                     |          | Scheme      | [nanopass/nanopass-framework-scheme](https://github.com/nanopass/nanopass-framework-scheme) | 417                   | 1.9.2            | 1.9.2                     | r6rs-nanopass-dev        |
+| [Scsh](https://scsh.net/)                        | Оболочка (Shell) на базе Scheme 48                                                                | R5RS     | Scheme, C   | [scheme/scsh](https://github.com/scheme/scsh)                                               | 345                   | 0.6.7            |                           |                          |
 | Scheme-to-C                                      | Пример неполного компилятора Scheme, построенного по технологии [Nanopass](https://nanopass.org/) |          | Scheme      | [akeep/scheme-to-c](https://github.com/akeep/scheme-to-c)                                   | 316                   |                  |                           |                          |
 | stex                                             | Конвертация кода на Scheme в LaTeX                                                                |          | Scheme      | [dybvig/stex](https://github.com/dybvig/stex)                                               | 82                    | 1.2.2            | 1.2.1                     | stex                     |
 | Gerbil Utilities                                 | Коллекция дополнительных модулей для Gerbil                                                       | R7RS     | Scheme      | [fare/gerbil-utils](https://github.com/fare/gerbil-utils)                                   | 38                    | 0.2              |                           |                          |
+
+## Обновление от 23 ноября 2022
+
+* Добавлена информация об оболочке _Scsh_.
 
 ## Обновление от 19 ноября 2022
 
