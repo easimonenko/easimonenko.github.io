@@ -26,3 +26,26 @@ exclude:
   - Gemfile.lock
   - "*~"
   - ".#*"
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      layout: post
+      author: Evgeny Simonenko
+      email: easimonenko@gmail.com
+      category:
+      tags:
+    posts:
+      layout: post
+      author: Evgeny Simonenko
+      email: easimonenko@gmail.com
+      category:
+      tags:
+    projects:
+      layout: project
+      title:
+      name:
+      link:
+      short:
+      author: Evgeny Simonenko
+      date:
+      status:
