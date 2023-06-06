@@ -19,6 +19,10 @@ collections:
     output: true
     title: Projects
     permalink: /:collection/:name/
+  courses:
+    output: true
+    title: Courses
+    permalink: /:collection/:name/
 exclude:
   - README.md
   - docs
@@ -47,5 +51,14 @@ jekyll_compose:
       link:
       short:
       author: Evgeny Simonenko
+      date:
+      status:
+    courses:
+      layout: courses
+      title:
+      name:
+      link:
+      short:
+      author: Симоненко Е.А.
       date:
       status:

@@ -2,6 +2,7 @@
 layout: default
 title: Home
 project-list-limit: 3
+course-list-limit: 3
 post-list-limit: 7
 ---
 <h1>Projects</h1>
@@ -14,6 +15,17 @@ post-list-limit: 7
 </ul>
 
 <p><strong><a href="/projects">All {{site.projects | size}} projects &#9658;</a></strong></p>
+
+<h1>Courses</h1>
+
+<ul class="courses">
+    {% assign courses = site.courses | sort: "date" | reverse %}
+    {% for course in courses limit: page.courses-list-limit %}
+    {% include course-list-item.html %}
+    {% endfor %}
+</ul>
+
+<p><strong><a href="/courses">All {{site.courses | size}} courses &#9658;</a></strong></p>
 
 <h1>Posts</h1>
 

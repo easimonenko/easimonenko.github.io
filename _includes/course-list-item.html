@@ -1,0 +1,22 @@
+<li>
+    <h2>
+	<a href="{{course.url}}" title="{{course.name}}">{{course.title}}</a>
+    </h2>
+
+    <p class="meta">
+	{{course.date | date_to_string}}&nbsp;|&nbsp;
+	<a href="{{course.link}}" class="course-url">
+	    {{course.link}}
+	</a>
+        {% if course.status %}
+        &nbsp;|&nbsp;<em>Status:</em> {{course.status | capitalize}}
+        {% endif %}
+        {% if course.updating_date %}
+        &nbsp;|&nbsp;<em>Updated:</em> {{course.updating_date | date_to_string}}
+        {% endif %}
+    </p>
+
+    <p>{{course.short}}</p>
+
+    <p class="read-more"><a href="{{course.url}}" title="Read more">Read more &#9658;</a></p>
+</li>

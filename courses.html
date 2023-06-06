@@ -1,0 +1,13 @@
+---
+layout: default
+title: Courses
+permalink: /courses/
+---
+<h1>{{page.title}}</h1>
+
+<ul class="courses">
+    {% assign courses = site.courses | sort: "date" | reverse %}
+    {% for course in courses %}
+    {% include course-list-item.html %}
+    {% endfor %}
+</ul>

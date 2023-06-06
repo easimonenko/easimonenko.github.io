@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article>
+    <h1>{{page.title}}</h1>
+    <p class="course-meta">
+	{{page.date | date_to_string}}&nbsp;|&nbsp;
+	<a href="{{page.link}}">
+	    {{page.link}}
+	</a>
+        {% if page.status %}
+        &nbsp;|&nbsp;<em>Status</em>: {{page.status | capitalize}}
+        {% endif %}
+        {% if page.updating_date %}
+        &nbsp;|&nbsp;<em>Updated</em>: {{page.updating_date | date_to_string}}
+        {% endif %}
+    </p>
+    {{content}}
+</article>
