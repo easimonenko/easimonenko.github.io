@@ -82,11 +82,11 @@ ul a {
     text-decoration: none;
 }
 
-ul.posts, ul.categories, ul.tags, ul.projects {
+ul.posts, ul.categories, ul.tags, ul.projects, ul.courses {
     padding: 0;
 }
 
-ul.posts > li, ul.categories > li, ul.tags > li, ul.projects > li {
+ul.posts > li, ul.categories > li, ul.tags > li, ul.projects > li, ul.courses > li {
     list-style: none;
 }
 
@@ -107,20 +107,20 @@ ul.categories > li, ul.tags > li {
     display: inline;
 }
 
-.post-meta {
+.meta {
     color: gray;
     font-size: 0.95em;
 }
 
-.post-meta a, .project-meta a {
+.meta a {
     text-decoration: none;
 }
 
-.post-meta a {
+.meta a {
     color: gray;
 }
 
-.post-meta a:hover, .project-meta a:hover {
+.meta a:hover {
     text-decoration: underline;
 }
 

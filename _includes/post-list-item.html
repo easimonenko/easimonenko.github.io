@@ -3,7 +3,7 @@
         <a href="{{post.url}}" title="{{post.title}}">{{post.title}}</a>
     </h2>
 
-    <p class="post-meta">
+    <p class="meta">
         {{post.date | date_to_string}}&nbsp;|&nbsp;
         <a href="/categories/{{post.category | slugify}}">
             {{post.category}}
