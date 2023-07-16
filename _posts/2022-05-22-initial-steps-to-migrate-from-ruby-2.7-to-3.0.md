@@ -4,7 +4,7 @@ title: Начальные шаги по миграции с Ruby 2.7 на 3.0
 author: Evgeny Simonenko
 date: 2022-05-22 23:59
 category: Tutorial
-tags: [Jekyll, Ruby, Linux]
+tags: [Jekyll, Ruby, Ubuntu, Linux]
 ---
 
 В недавно вышедшем _Ubuntu Linux 22.04 LTS_ Ruby был обновлён с версии 2.7 на 3.0.
