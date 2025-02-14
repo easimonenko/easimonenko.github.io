@@ -12,7 +12,7 @@ tags: [GNU Emacs, Zettelkasten, Learning, Research Work]
 
 ![Org-roam with graph](/images/org-roam-with-graph.png)
 
-На снимке выше вы видете Emacs с двумя связанными друг с другом заметками и визуализуцию графа в браузере, в котором выделен узел одной из открытых заметок и все связанные с ним. Интересно? Тогда читайте дальше.
+На снимке выше вы видите Emacs с двумя связанными друг с другом заметками и визуализуцию графа в браузере, в котором выделен узел одной из открытых заметок и все связанные с ним. Интересно? Тогда читайте дальше.
 
 <!-- end-of-lead -->
 
@@ -139,7 +139,7 @@ tags: [GNU Emacs, Zettelkasten, Learning, Research Work]
 
 ## Визуализируем Zettelkasten
 
-Ну и под конец киллер-фича: [Org-Roam-UI](https://github.com/org-roam/org-roam-ui). Для визуализации графа вызовем команду `org-roam-ui-mode` и увидем нечто подобное:
+Ну и под конец киллер-фича: [Org-Roam-UI](https://github.com/org-roam/org-roam-ui). Для визуализации графа вызовем команду `org-roam-ui-mode` и увидим нечто подобное:
 
 ![Org-Roam-UI](/images/org-roam-ui.png)
 
