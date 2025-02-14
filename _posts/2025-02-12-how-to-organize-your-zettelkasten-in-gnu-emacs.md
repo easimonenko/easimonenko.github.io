@@ -147,4 +147,10 @@ tags: [GNU Emacs, Zettelkasten, Learning, Research Work]
 
 **Если вам понравилась эта статья, не ленитесь поблагодарить автора донатом на** [Boosty](https://boosty.to/scitech-enthusiast). **Ваша поддержка подогревает мой энтузиазм!**
 
+## Ссылки
+
+* [Org-roam](https://www.orgroam.com)
+* [Zettelkasten: как один немецкий учёный стал невероятно продуктивным](https://habr.com/ru/articles/508672/)
+* [Zettelkasten автора статьи](https://github.com/easimonenko/roam-notes): можно взять в качестве примера или за основу своего собственного Zettelkasten при соблюдении лицензии CC-BY-SA 4.0.
+
 (c) Симоненко Евгений, 2025
