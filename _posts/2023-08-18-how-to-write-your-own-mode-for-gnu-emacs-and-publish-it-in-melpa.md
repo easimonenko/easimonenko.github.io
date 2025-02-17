@@ -7,8 +7,12 @@ category: Tutorial
 tags:
 - GNU Emacs
 - Emacs Lisp
+- Embox
 date: 2023-08-18 00:13 +0300
+updating_date: 2025-02-17 23:11 +0300
 ---
+![GNU Emacs с Mybuild-mode](/images/mybuild-mode.png)
+
 Некоторое время назад я разработал [режим][mybuild-mode] [GNU Emacs][]
 для редактирования конфигурационных файлов операционной системы [Embox][].
 Кроме всестороннего изучения Emacs Lisp мне потребовалось разобраться
@@ -17,18 +21,6 @@ date: 2023-08-18 00:13 +0300
 GNU Emacs. В этом руководстве я расскажу, что нужно знать, чтобы
 написать свой собственный режим, и как опубликовать свой собственный
 пакет.
-
-``` elisp
-;;;###autoload
-(define-derived-mode mybuild-mode prog-mode "Mybuild"
-  "Major mode for editing Mybuild files from Embox operating system."
-  :syntax-table mybuild-mode-syntax-table
-  (setq-local comment-start "// ")
-  (setq-local comment-end "")
-  (setq-local indent-tabs-mode nil)
-  (setq-local indent-line-function 'mybuild-mode-indent-line)
-  (setq-local font-lock-defaults '(mybuild-highlights)))
-```
 
 <!-- end-of-lead -->
 
