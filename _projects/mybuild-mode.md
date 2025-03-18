@@ -10,6 +10,9 @@ status: active
 updating_date: 2022-09-25 14:39
 ---
 
+[![MELPA](https://melpa.org/packages/mybuild-mode-badge.svg)](https://melpa.org/#/mybuild-mode)
+[![MELPA Stable](https://stable.melpa.org/packages/mybuild-mode-badge.svg)](https://stable.melpa.org/#/mybuild-mode)
+
 Проект по разработке режима _GNU Emacs_ для редактирования файлов _Mybuild_
 из операционный системы [Embox](https://embox.github.io/).
 
