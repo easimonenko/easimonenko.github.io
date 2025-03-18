@@ -10,9 +10,11 @@ email: easimonenko@gmail.com
 status: active
 ---
 
+[![MELPA](https://melpa.org/packages/c2-mode-badge.svg)](https://melpa.org/#/c2-mode)
+
 Проект по разработке режима _GNU Emacs_ для редактирования кода, написанного на языке [C2](http://c2lang.org).
 
-Проект начат в конце февраля 2025. Подана [заявка](https://github.com/melpa/melpa/pull/9374) на добавление пакета в MELPA.
+Проект начат в конце февраля 2025. [Подана](https://github.com/melpa/melpa/pull/9374) и [одобрена](https://melpa.org/#/c2-mode) заявка на добавление пакета в MELPA.
 
 Реализованы:
 
