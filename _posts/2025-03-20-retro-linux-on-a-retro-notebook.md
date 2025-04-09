@@ -198,17 +198,37 @@ Mandrake Linux 8 представлял из себя самостоятельн
 
 Самое интересное это конечно же KDE 2 и GNOME 1. Посмотрим.
 
-![KDE 2](/images/mandrake-8-kde.jpg)
+Рабочий стол KDE 2.
 
-![GNOME 1](/images/mandrake-8-gnome.jpg)
+![Рабочий стол KDE 2](/images/mandrake-8-kde.jpg)
 
-Рабочий стол в стиле NextStep это Window Maker с GNUStep.
+KDE 2 с некоторыми приложеними. Калькулятор, кажется, из GNOME.
+
+![KDE 2 с некоторыми приложеними](/images/mandrake-8-kde-with-apps.jpg)
+
+Рабочий стол GNOME 1.4.
+
+![Рабочий стол GNOME 1.4](/images/mandrake-8-gnome.jpg)
+
+GNOME с приложениями. Шестерёнки молотят отлично.
+
+![GNOME 1.4 с приложениями](/images/mandrake-8-gnome-with-apps.jpg)
+
+Рабочий стол в стиле NextStep это Window Maker с GNUStep. Кстати, специально в каждой среде посмотрел, сколько памяти занято: оказалось, что во всех примерно одинаково, плюс-минус 120 Мб, но меньше всех в GNOME 104 Мб и Window Maker немного больше.
 
 ![Window Maker](/images/mandrake-8-window-maker.jpg)
 
-Enlightenment тогда был другой, но выглядел круто, по мне.
+Enlightenment тогда был другой, но выглядел круто, по мне. Если в настройках включить звуковую поддержку, то окна Enlightenment будут озвучиваться голосом!
 
 ![Enlighttenment](/images/mandrake-8-enlightenment.jpg)
+
+Enlightenment с окнами настроек и подсказкой.
+
+![Enlightenment с окнами настроек и подсказкой](/images/mandrake-8-enlightenment-with-settings.jpg)
+
+Если вложенное меню не помещается, то вся иерархия меню сдвигается влево.
+
+![Меню Enlightenment](/images/mandrake-8-enlightenment-menu.jpg)
 
 Минималистичный Fluxbox.
 
@@ -218,9 +238,21 @@ XFCE почему-то разместил панель с отступом от 
 
 ![XFCE](/images/mandrake-8-xfce.jpg)
 
+Как подсказали в комментариях, панель тоже является окном, которое можно перемещать по экрану.
+
+![XFCE с приложениями](/images/mandrake-8-xfce-with-apps.jpg)
+
 IceWM напоминал мне Windows 98.
 
 ![IceWM](/images/mandrake-8-icewm.jpg)
+
+IceWM с некоторыми приложениями. GNU Emacs имеется.
+
+![IceWM](/images/mandrake-8-icewm-with-apps.jpg)
+
+Я конечно не мог пройти мимо запуска Tux Racer. К сожалению поиграть не получилось, Tux лагал. Возможно дело в несовершенстве драйвера radeon или в слабых характеристиках видеокарты. На более новом ноутбуке на Pentium M с Radeon более нового поколения в 2004 году Tux гонял как надо.
+
+![Tux Racer](/images/mandrake-8-tuxracer.jpg)
 
 Ну и на последок виртуальный терминал: прикольно, заморачивались тогда люди.
 
