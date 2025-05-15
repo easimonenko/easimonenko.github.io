@@ -1,5 +1,5 @@
 ---
 layout: tag
 title: Embedded Systems
-related: [Arduino]
+related: [Arduino, Single Board Computers, Microcontrollers]
 ---
