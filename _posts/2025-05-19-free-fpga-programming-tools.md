@@ -10,6 +10,8 @@ tags: [FPGA, HDL, Verilog, VHDL, FPGA Tools, LSP]
 
 Подборка свободных инструментов для программирования FPGA, включающая в себя средства поддержки языков HDL, синтезаторы, симуляторы и некоторые другие.
 
+![Обложка](/images/free-fpga-programming-tools-cover.png)
+
 <!-- end-of-lead -->
 
 ## Yosys
@@ -103,16 +105,17 @@ tags: [FPGA, HDL, Verilog, VHDL, FPGA Tools, LSP]
 Для удобства и оценки масштаба составил сводную таблицу, упорядочив по количеству звёзд на GitHub на момент написания статьи.
 
 
-| # | Звёздность | Название                                                       | GitHub                                                                        | Язык разработки | Лицензия     |
-| 1 | 4269       | [Chisel](https://www.chisel-lang.org/)                         | [chipsalliance/chisel](https://github.com/chipsalliance/chisel)               | Scala           | Apache 2.0   |
-| 2 | 3813       | [Yosys](https://yosyshq.net/yosys/)                            | [YosysHQ/yosys](https://github.com/YosysHQ/yosys)                             | C++             | ISC          |
-| 3 | 3042       | [Icarus Verilog](https://steveicarus.github.io/iverilog/)      | [steveicarus/iverilog](https://github.com/steveicarus/iverilog)               | C++             | GNU GPL v2   |
-| 4 | 2888       | [Verilator](https://www.veripool.org/verilator/)               | [verilator/verilator](https://github.com/verilator/verilator)                 | C++             | GNU LGPL v3  |
-| 5 | 2556       | [GHDL](https://ghdl.github.io/ghdl/)                           | [ghdl/ghdl](https://github.com/ghdl/ghdl)                                     | Ada             | GNU GPL v2   |
-| 6 | 2132       | [PYNQ](https://www.pynq.io/)                                   | [Xilinx/PYNQ](https://github.com/Xilinx/PYNQ)                                 | Python          | BSD 3-Clause |
-| 7 | 1786       | SpinalHDL                                                      | [SpinalHDL/SpinalHDL](https://github.com/SpinalHDL/SpinalHDL)                 | Scala           | GNU LGPL v3  |
-| 8 | 1537       | [Verible](https://chipsalliance.github.io/verible/)            | [chipsalliance/verible](https://github.com/chipsalliance/verible)             | C++             | Apache 2.0   |
-| 9 | 1498       | [Clash](https://clash-lang.org/)                               | [clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler)     | Haskell         | BSD 2-Clause |
+| #  | Звёздность | Название                                                       | GitHub                                                                        | Язык разработки | Лицензия     |
+|----|------------|----------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------|--------------|
+| 1  | 4269       | [Chisel](https://www.chisel-lang.org/)                         | [chipsalliance/chisel](https://github.com/chipsalliance/chisel)               | Scala           | Apache 2.0   |
+| 2  | 3813       | [Yosys](https://yosyshq.net/yosys/)                            | [YosysHQ/yosys](https://github.com/YosysHQ/yosys)                             | C++             | ISC          |
+| 3  | 3042       | [Icarus Verilog](https://steveicarus.github.io/iverilog/)      | [steveicarus/iverilog](https://github.com/steveicarus/iverilog)               | C++             | GNU GPL v2   |
+| 4  | 2888       | [Verilator](https://www.veripool.org/verilator/)               | [verilator/verilator](https://github.com/verilator/verilator)                 | C++             | GNU LGPL v3  |
+| 5  | 2556       | [GHDL](https://ghdl.github.io/ghdl/)                           | [ghdl/ghdl](https://github.com/ghdl/ghdl)                                     | Ada             | GNU GPL v2   |
+| 6  | 2132       | [PYNQ](https://www.pynq.io/)                                   | [Xilinx/PYNQ](https://github.com/Xilinx/PYNQ)                                 | Python          | BSD 3-Clause |
+| 7  | 1786       | SpinalHDL                                                      | [SpinalHDL/SpinalHDL](https://github.com/SpinalHDL/SpinalHDL)                 | Scala           | GNU LGPL v3  |
+| 8  | 1537       | [Verible](https://chipsalliance.github.io/verible/)            | [chipsalliance/verible](https://github.com/chipsalliance/verible)             | C++             | Apache 2.0   |
+| 9  | 1498       | [Clash](https://clash-lang.org/)                               | [clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler)     | Haskell         | BSD 2-Clause |
 | 10 | 1439       | nextpnr                                                        | [YosysHQ/nextpnr](https://github.com/YosysHQ/nextpnr)                         | C++             | ISC          |
 | 11 | 1327       | [openFPGALoader](https://trabucayre.github.io/openFPGALoader/) | [trabucayre/openFPGALoader](https://github.com/trabucayre/openFPGALoader)     | C++             | Apache 2.0   |
 | 12 | 1058       | [IceStorm](https://clifford.fm/icestorm)                       | [YosysHQ/icestorm/](https://github.com/YosysHQ/icestorm/)                     | Python          | ISC          |
@@ -132,7 +135,7 @@ tags: [FPGA, HDL, Verilog, VHDL, FPGA Tools, LSP]
 | 26 | 170        | Veridian                                                       | [vivekmalneedi/veridian](https://github.com/vivekmalneedi/veridian)           | Rust            | MIT          |
 | 27 | 142        | Oxide                                                          | [gatecat/prjoxide](https://github.com/gatecat/prjoxide)                       | Python          | ISC          |
 | 28 | 133        | [PyFPGA](https://pyfpga.github.io/pyfpga/)                     | [PyFPGA/pyfpga](https://github.com/PyFPGA/pyfpga)                             | Python          | GNU GPL v3   |
-| 29 | 122        | Mistral                                                        | [Ravenslofty/mistral](https://github.com/Ravenslofty/mistral)                 | C++             | BSD 3-Clause         |
+| 29 | 122        | Mistral                                                        | [Ravenslofty/mistral](https://github.com/Ravenslofty/mistral)                 | C++             | BSD 3-Clause |
 
 Как мы видим, свободно-распространяемых инструментов набралось немало, а здесь перечислены не все. Эти инструменты покрывают все основные потребности разработчиков под FPGA, при этом нетребовательны к ресурсам, работают в различных операционных системах и постоянно развиваются. Но главное, они не привязаны к производителям чипов и могут использоваться с различными из них, хотя и не со всеми.
 
