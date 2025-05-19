@@ -98,6 +98,8 @@ tags: [FPGA, HDL, Verilog, VHDL, FPGA Tools, LSP]
 
 ## Разное
 
+**[GTKWave](https://gtkwave.github.io/gtkwave/)** -- просмотрщик сигналов, записанных во время симуляции программ на Verilog и VHDL.
+
 **[netlistsvg](https://github.com/nturley/netlistsvg)** -- программа построения диаграммы связей между электронными компонентами на основе файла netlist, сгенерированного Yosys.
 
 ## Сводная таблица свободных инструментов
@@ -120,23 +122,24 @@ tags: [FPGA, HDL, Verilog, VHDL, FPGA Tools, LSP]
 | 11 | 1327       | [openFPGALoader](https://trabucayre.github.io/openFPGALoader/) | [trabucayre/openFPGALoader](https://github.com/trabucayre/openFPGALoader)     | C++             | Apache 2.0   |
 | 12 | 1058       | [IceStorm](https://clifford.fm/icestorm)                       | [YosysHQ/icestorm/](https://github.com/YosysHQ/icestorm/)                     | Python          | ISC          |
 | 13 | 1051       | OSS CAD Suite                                                  | [YosysHQ/oss-cad-suite-build](https://github.com/YosysHQ/oss-cad-suite-build) | --              | ISC          |
-| 14 | 696        | netlistsvg                                                     | [nturley/netlistsvg](https://github.com/nturley/netlistsvg)                   | JavaScript      | MIT          |
-| 15 | 693        | [NVC](https://www.nickg.me.uk/nvc/)                            | [nickg/nvc](https://github.com/nickg/nvc)                                     | C               | GNU GPL v3   |
-| 16 | 627        | [Veryl](https://veryl-lang.org/)                               | [veryl-lang/veryl](https://github.com/veryl-lang/veryl)                       | Rust            | Apache 2.0   |
-| 17 | 552        | Apicula                                                        | [YosysHQ/apicula](https://github.com/YosysHQ/apicula)                         | Python          | MIT          |
-| 18 | 550        | [SystemC](https://systemc.org/)                                | [accellera-official/systemc](https://github.com/accellera-official/systemc)   | C++             | Apache 2.0   |
-| 19 | 507        | SVLS                                                           | [dalance/svls](https://github.com/dalance/svls)                               | Rust            | MIT          |
-| 20 | 411        | Trellis                                                        | [YosysHQ/prjtrellis](https://github.com/YosysHQ/prjtrellis)                   | Python          | Разные       |
-| 21 | 398        | VHDL Language Server                                           | [VHDL-LS/rust_hdl](https://github.com/VHDL-LS/rust_hdl)                       | Rust            | MPL 2.0      |
-| 22 | 387        | [F4PGA](https://f4pga.org/)                                    | [chipsalliance/f4pga](https://github.com/chipsalliance/f4pga)                 | Python          | Apache 2.0   |
-| 23 | 345        | SVLint                                                         | [dalance/svlint](https://github.com/dalance/svlint)                           | Rust            | MIT          |
-| 24 | 334        | GHDL Yosys Plugin                                              | [ghdl/ghdl-yosys-plugin](https://github.com/ghdl/ghdl-yosys-plugin)           | C++             | GNU GPL v3   |
-| 25 | 272        | Intel Compiler for SystemC                                     | [intel/systemc-compiler](https://github.com/intel/systemc-compiler)           | C++             | Apache 2.0   |
-| 26 | 170        | Veridian                                                       | [vivekmalneedi/veridian](https://github.com/vivekmalneedi/veridian)           | Rust            | MIT          |
-| 27 | 142        | Oxide                                                          | [gatecat/prjoxide](https://github.com/gatecat/prjoxide)                       | Python          | ISC          |
-| 28 | 133        | [PyFPGA](https://pyfpga.github.io/pyfpga/)                     | [PyFPGA/pyfpga](https://github.com/PyFPGA/pyfpga)                             | Python          | GNU GPL v3   |
-| 29 | 122        | Mistral                                                        | [Ravenslofty/mistral](https://github.com/Ravenslofty/mistral)                 | C++             | BSD 3-Clause |
+| 14 | 778        | [GTKWave](https://gtkwave.github.io/gtkwave/)                  | [gtkwave/gtkwave](https://github.com/gtkwave/gtkwave)                         | C               | GNU GPL v2   |
+| 15 | 696        | netlistsvg                                                     | [nturley/netlistsvg](https://github.com/nturley/netlistsvg)                   | JavaScript      | MIT          |
+| 16 | 693        | [NVC](https://www.nickg.me.uk/nvc/)                            | [nickg/nvc](https://github.com/nickg/nvc)                                     | C               | GNU GPL v3   |
+| 17 | 627        | [Veryl](https://veryl-lang.org/)                               | [veryl-lang/veryl](https://github.com/veryl-lang/veryl)                       | Rust            | Apache 2.0   |
+| 18 | 552        | Apicula                                                        | [YosysHQ/apicula](https://github.com/YosysHQ/apicula)                         | Python          | MIT          |
+| 19 | 550        | [SystemC](https://systemc.org/)                                | [accellera-official/systemc](https://github.com/accellera-official/systemc)   | C++             | Apache 2.0   |
+| 20 | 507        | SVLS                                                           | [dalance/svls](https://github.com/dalance/svls)                               | Rust            | MIT          |
+| 21 | 411        | Trellis                                                        | [YosysHQ/prjtrellis](https://github.com/YosysHQ/prjtrellis)                   | Python          | Разные       |
+| 22 | 398        | VHDL Language Server                                           | [VHDL-LS/rust_hdl](https://github.com/VHDL-LS/rust_hdl)                       | Rust            | MPL 2.0      |
+| 23 | 387        | [F4PGA](https://f4pga.org/)                                    | [chipsalliance/f4pga](https://github.com/chipsalliance/f4pga)                 | Python          | Apache 2.0   |
+| 24 | 345        | SVLint                                                         | [dalance/svlint](https://github.com/dalance/svlint)                           | Rust            | MIT          |
+| 25 | 334        | GHDL Yosys Plugin                                              | [ghdl/ghdl-yosys-plugin](https://github.com/ghdl/ghdl-yosys-plugin)           | C++             | GNU GPL v3   |
+| 26 | 272        | Intel Compiler for SystemC                                     | [intel/systemc-compiler](https://github.com/intel/systemc-compiler)           | C++             | Apache 2.0   |
+| 27 | 170        | Veridian                                                       | [vivekmalneedi/veridian](https://github.com/vivekmalneedi/veridian)           | Rust            | MIT          |
+| 28 | 142        | Oxide                                                          | [gatecat/prjoxide](https://github.com/gatecat/prjoxide)                       | Python          | ISC          |
+| 29 | 133        | [PyFPGA](https://pyfpga.github.io/pyfpga/)                     | [PyFPGA/pyfpga](https://github.com/PyFPGA/pyfpga)                             | Python          | GNU GPL v3   |
+| 30 | 122        | Mistral                                                        | [Ravenslofty/mistral](https://github.com/Ravenslofty/mistral)                 | C++             | BSD 3-Clause |
 
-Как мы видим, свободно-распространяемых инструментов набралось немало, а здесь перечислены не все. Эти инструменты покрывают все основные потребности разработчиков под FPGA, при этом нетребовательны к ресурсам, работают в различных операционных системах и постоянно развиваются. Но главное, они не привязаны к производителям чипов и могут использоваться с различными из них, хотя и не со всеми.
+Как мы видим, свободно-распространяемых инструментов набралось немало, а здесь перечислены не все. Эти инструменты покрывают возможно не все, но самые основные потребности разработчиков под FPGA, при этом нетребовательны к ресурсам, работают в различных операционных системах и постоянно развиваются. Но главное, они не привязаны к производителям чипов и могут использоваться с различными из них, хотя и не со всеми.
 
 (c) Симоненко Евгений, 2025
