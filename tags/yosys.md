@@ -1,5 +1,5 @@
 ---
 layout: tag
 title: Yosys
-related: [FPGA]
+related: [FPGA, FPGA Tools, Verilog]
 ---

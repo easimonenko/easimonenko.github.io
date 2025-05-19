@@ -1,5 +1,5 @@
 ---
 layout: tag
 title: Digital Electronics
-related: Electronics
+related: [Electronics, FPGA]
 ---

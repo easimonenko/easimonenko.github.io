@@ -1,5 +1,5 @@
 ---
 layout: tag
 title: Electronics
-related: []
+related: [Digital Electronics]
 ---

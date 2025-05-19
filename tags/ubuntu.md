@@ -1,5 +1,5 @@
 ---
 layout: tag
 title: Ubuntu
-related: [Linux]
+related: [Linux, Operating Systems]
 ---
