@@ -1,5 +1,5 @@
 ---
 layout: tag
 title: GNU Emacs
-related: [Atom, Visual Studio Code, Programming Tools, Text Editors]
+related: [Emacs Lisp, Atom, Visual Studio Code, Programming Tools, Text Editors]
 ---

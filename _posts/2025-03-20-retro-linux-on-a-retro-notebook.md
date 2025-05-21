@@ -5,7 +5,7 @@ date: 2025-03-20 10:24 +0000
 author: Evgeny Simonenko
 email: easimonenko@gmail.com
 category: Review
-tags: [Lifebook, Fujitsu, Linux, Retro Computing]
+tags: [Lifebook, Fujitsu, Linux, Retro Computing, Notebooks, Laptops]
 ---
 
 ![Фото с ноутбуком LifeBook E6646 и CD с Linux на моём столе](/images/fujitsu-lifebook-e6646-on-my-table.jpg)
