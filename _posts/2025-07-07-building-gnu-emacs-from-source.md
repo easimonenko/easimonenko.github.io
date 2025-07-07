@@ -10,7 +10,7 @@ tags: [GNU Emacs]
 
 Инструкция по сборке [GNU Emacs](https://www.gnu.org/software/emacs/) из исходников, полученных из его репозитория Git. Сборка производилась в среде Ubuntu Linux 22.04.
 
-<!-- lead-ends-here -->
+<!-- end-of-lead -->
 
 ## Загрузка исходников
 
