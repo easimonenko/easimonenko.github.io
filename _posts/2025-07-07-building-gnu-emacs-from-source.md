@@ -8,6 +8,8 @@ category: Tutorial
 tags: [GNU Emacs]
 ---
 
+![GNU Emacs 31.0.50, собранный из исходников и немного настроенный](/images/gnu-emacs-from-sources.png)
+
 Инструкция по сборке [GNU Emacs](https://www.gnu.org/software/emacs/) из исходников, полученных из его репозитория Git. Сборка производилась в среде Ubuntu Linux 22.04.
 
 <!-- end-of-lead -->
