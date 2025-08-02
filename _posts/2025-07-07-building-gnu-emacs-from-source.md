@@ -10,7 +10,7 @@ tags: [GNU Emacs]
 
 ![GNU Emacs 31.0.50, собранный из исходников и немного настроенный](/images/gnu-emacs-from-sources.png)
 
-Инструкция по сборке [GNU Emacs](https://www.gnu.org/software/emacs/) из исходников, полученных из его репозитория Git. Сборка производилась в среде Ubuntu Linux 22.04.
+Инструкция по сборке [GNU Emacs](https://www.gnu.org/software/emacs/) из исходников, полученных из его репозитория Git. Сборка производилась в среде Ubuntu Linux 22.04 и 25.04.
 
 <!-- end-of-lead -->
 
@@ -34,16 +34,19 @@ cd emacs
 - Make
 - Libc
 - Autoconf
+- Pkg-Config
 - Texinfo
 
 ``` shell
-sudo apt install gcc make libc-dev autoconf texinfo
+sudo apt install gcc make libc-dev autoconf pkg-config texinfo
 ```
 
 Затем пакеты, соответствующие конфигурации:
 
 ``` shell
-sudo apt install libgtk-3-dev libgccjit-11-dev libgnutls28-dev libmagickwand-dev libtinfo-dev libtree-sitter-dev libgif-dev libxpm-dev
+sudo apt install libgtk-3-dev libtinfo-dev libtree-sitter-dev libgccjit-14-dev libgnutls28-dev
+sudo apt install liblcms2-dev libsqlite3-dev libgpm-dev
+sudo apt install librsvg-dev libgif-dev libxpm-dev libotf-dev
 ```
 
 Этот список может отличаться, если будут выбраны другие опции конфигурации.
@@ -59,7 +62,7 @@ sudo apt install libgtk-3-dev libgccjit-11-dev libgnutls28-dev libmagickwand-dev
 Этот скрипт сгенерирует `configure.sh`, который нужно вызвать, передав ему нужные опции:
 
 ``` shell
-./configure --prefix=/home/easimonenko/Software/emacs-2025-07-07 --with-native-compilation --with-x-toolkit=gtk3 --with-tree-sitter --with-wide-int --with-modules --with-gnutls --with-mailutils --with-cairo --with-imagemagick --with-file-notification=yes --without-dbus
+./configure --prefix=$HOME/Software/emacs-2025-07-07 --with-native-compilation --with-x-toolkit=gtk3 --with-tree-sitter --with-wide-int --with-modules --with-gnutls --with-mailutils --with-cairo --with-imagemagick --with-file-notification=yes --without-dbus
 ```
 
 Опция `--with-x-toolkit=gtk3` указывает собирать графический интерфейс для X Window System с использованием библиотеки Gtk3. Есть и другие варианты, в частности, для сборки под Wayland нужно эту опцию заменить на `--with-pgtk`.
