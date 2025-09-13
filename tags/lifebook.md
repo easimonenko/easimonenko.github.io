@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: Lifebook
+title: LifeBook
 related: [Notebooks, Laptops, Fujitsu, FMV]
 ---
