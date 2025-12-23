@@ -1,5 +1,5 @@
 ---
 layout: tag
 title: OmniBook
-related: [HP, Hewlett-Packard, Notebooks, Laptops, Retro Computing]
+related: [HP, Hewlett-Packard, Notebooks, Laptops]
 ---

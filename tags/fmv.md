@@ -1,5 +1,5 @@
 ---
 layout: tag
 title: FMV
-related: [Fujitsu, Lifebook]
+related: [Fujitsu, LifeBook, Notebooks, Laptops]
 ---

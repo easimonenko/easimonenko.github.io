@@ -1,5 +1,5 @@
 ---
 layout: tag
 title: HP
-related: [Hewlett-Packard, Notebooks, Laptops]
+related: [Hewlett-Packard, Compaq, Notebooks, Laptops]
 ---

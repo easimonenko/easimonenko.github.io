@@ -1,5 +1,5 @@
 ---
 layout: tag
 title: Notebooks
-related: [Laptops, LifeBook]
+related: [Laptops, LifeBook, OmniBook]
 ---
