@@ -164,7 +164,7 @@ File Explorer с интерфейсом Internet Explorer.
 
 Установлен HDD объёмом 10 Гб. По спецификации должен был быть на 6.4 Гб. Возможно был заменён. На 10 Гб у меня был на моём первом компьютере в 2000 г.
 
-Видеоконтроллер NeoMagic MagicGraph 128XD, такой же устанавливался на выпускавшийся в то же время [Fujitsu LifeBook C3](https://habr.com/ru/articles/946658/).
+Видеоконтроллер NeoMagic MagicGraph 128XD, такой же устанавливался на выпускавшийся в то же время [Fujitsu LifeBook C3]({% post_url 2025-09-11-fujitsu-lifebook-c3-consumer-notebook-late-1990s %}).
 
 ![Compaq Presario 1250: свойства графики](/images/presario-1250-display-properties.jpg)
 
@@ -228,8 +228,8 @@ PS. Когда статья уже была написана, при очере�
 - [AMD K6 // Wikipedia](https://en.wikipedia.org/wiki/AMD_K6)
 - [JBL // Wikipedia](https://en.wikipedia.org/wiki/JBL)
 - [ReLifeBook // Telegram](https://t.me/relifebook)
-- [HP OmniBook XE3: брутальный ноутбук начала 2000-х с автономным CD-проигрывателем и хорошим звуком](https://habr.com/ru/articles/973944/)
-- [Fujitsu LifeBook C3: потребительский ноутбук конца 90-х](https://habr.com/ru/articles/946658/)
-- [Ретро Linux на ретро-ноутбуке](https://habr.com/ru/articles/898958/)
+- [HP OmniBook XE3: брутальный ноутбук начала 2000-х с автономным CD-проигрывателем и хорошим звуком]({% post_url 2025-11-21-hp-omnibook-xe3-brutal-laptop-from-the-early-2000s-with-a-standalone-cd-player-and-good-sound %})
+- [Fujitsu LifeBook C3: потребительский ноутбук конца 90-х]({% post_url 2025-09-11-fujitsu-lifebook-c3-consumer-notebook-late-1990s %})
+- [Ретро Linux на ретро-ноутбуке]({% post_url 2025-03-20-retro-linux-on-a-retro-notebook %})
 
 (c) Симоненко Евгений, 2025
