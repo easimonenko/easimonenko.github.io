@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Summing up 2025: three years of my fascination with old notebooks, two years
-  with Emacs Lisp and one year with digital electronics and FPGA'
+title: 'Подведение итогов 2025: три года моему увлечению старыми ноутбуками, два года
+  Emacs Lisp и один год цифровой электроникой и FPGA'
 author: Evgeny Simonenko
 email: easimonenko@gmail.com
 category: Summing Up
