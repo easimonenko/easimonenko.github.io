@@ -85,7 +85,7 @@ date: 2025-12-31 19:15 +0300
 
 ## Обучение
 
-Я когда-то преподавал, и у меня были наработки по графовым базам данных. После "перезагрузки" я решился доделать по ним свой бесплатный онлайн-курс и [опубликовал]() его в мае 2025.
+Я когда-то преподавал, и у меня были наработки по графовым базам данных. После "перезагрузки" я решился доделать по ним свой бесплатный онлайн-курс и [опубликовал](https://stepik.org/course/206531) его в марте 2025.
 
 Это основное, что хотелось бы выделить.
 
@@ -122,8 +122,8 @@ date: 2025-12-31 19:15 +0300
 
 - [Канал ReLifeBook в Telegram](https://t.me/relifebook)
 - [Сообщество ReLifeBook во Вконтакте](https://vk.com/relifebook)
-- [Zettelkasten](https://github.com/easimonenko/roam-notes/)
-- [Book Like Themes](https://github.com/easimonenko/book-like-themes)
-- [Графовые базы данных // Stepik]()
+- [Zettelkasten // GitHub](https://github.com/easimonenko/roam-notes/)
+- [Book Like Themes // GitHub](https://github.com/easimonenko/book-like-themes)
+- [Графовые базы данных // Stepik](https://stepik.org/course/206531)
 
 (c) Симоненко Евгений, 2025, 2026
