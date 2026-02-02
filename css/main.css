@@ -1,15 +1,28 @@
 @import "/css/emacs.css";
 
+html {
+    background: lightgray;
+}
+
 body {
-    font-family: Georgia, Times, Serif;
-    font-size: 13pt;
-    margin: 1em auto;
+    background: white;
+    font-family: serif;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding: 1em;
     width: 70%;
 }
 
 header {
-    border-bottom: 1px solid #d5d5d5;
-    padding-bottom: 1em;
+    border-bottom: 1px solid lightgray;
+}
+
+section {
+    border-bottom: 1px solid lightgray;
+    border-top: 1px solid lightgray;
 }
 
 article img {
@@ -28,7 +41,7 @@ article img {
 }
 
 .current-part {
-    background-color: #555;
+    background-color: darkgray;
     border-radius: 0.3em;
     color: white;
     padding: 0.5em;
@@ -46,7 +59,7 @@ nav ul li, footer ul li {
 }
 
 nav a {
-    color: #555;
+    color: darkgray;
 }
 
 nav a:hover {
@@ -148,5 +161,5 @@ table th, td {
 }
 
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid lightgray;
 }
