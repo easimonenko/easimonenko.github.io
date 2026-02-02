@@ -18,6 +18,7 @@ body {
 
 header {
     border-bottom: 1px solid lightgray;
+    padding-bottom: 1em;
 }
 
 section {
