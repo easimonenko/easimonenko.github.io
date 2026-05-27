@@ -20,4 +20,4 @@ tags: [Bloggero, GitHub Pages]
 
 <!-- end-of-lead -->
 
-(c) Симоненко Евгений, 2017
+(c) Симоненко Е.А., 2017

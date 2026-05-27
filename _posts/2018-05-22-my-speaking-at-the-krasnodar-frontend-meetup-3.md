@@ -14,4 +14,4 @@ tags: [Elm, Frontend, Meetup, Krasnodar]
 
 <!-- end-of-lead -->
 
-(c) Симоненко Евгений, 2018
+(c) Симоненко Е.А., 2018

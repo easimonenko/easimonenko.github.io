@@ -29,4 +29,4 @@ collections:
 
 Подробности смотри в [исходниках](https://github.com/easimonenko/easimonenko.github.io) этого блога, а также в репозитории [шаблона](https://github.com/easimonenko/jekyll-template-for-a-personal-website), куда я помещаю все свои находки.
 
-(c) Симоненко Евгений, 2022
+(c) Симоненко Е.А., 2022

@@ -12,4 +12,4 @@ tags: [Retro Computing, Notebooks, Laptops, Fujitsu, LifeBook]
 
 <!-- end-of-lead -->
 
-(c) Симоненко Евгений, 2025
+(c) Симоненко Е.А., 2025

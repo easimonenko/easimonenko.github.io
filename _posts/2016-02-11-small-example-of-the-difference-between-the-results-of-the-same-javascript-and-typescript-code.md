@@ -35,4 +35,4 @@ sample.ts(5,3): error TS2322: Type 'string' is not assignable to type 'number'.
 
 <!-- end-of-lead -->
 
-(c) Симоненко Евгений, 2016
+(c) Симоненко Е.А., 2016

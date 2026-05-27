@@ -30,4 +30,4 @@ tags: [Jekyll, Static Site Generators, Bloggero, GitHub Pages]
 
 <!-- end-of-lead -->
 
-(c) Симоненко Евгений, 2020
+(c) Симоненко Е.А., 2020

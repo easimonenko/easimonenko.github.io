@@ -63,4 +63,4 @@ Jekyll, а сейчас можно это самим посмотреть по
 [Jekyll]: https://jekyllrb.com
 [Bloggero]: https://github.com/easimonenko/bloggero
 
-(c) Симоненко Евгений, 2020
+(c) Симоненко Е.А., 2020
